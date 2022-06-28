@@ -1,0 +1,35 @@
+library(RColorBrewer)
+library(stringr)
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(data.table)
+library(tm)
+library(wordcloud2)
+library(webshot)
+library(htmlwidgets)
+
+fn <- Sys.glob(paste0(".MBTI1.csv"))
+
+data_full <- data.frame()
+
+for (f in fn) {
+  
+  data_part <- fread(f,sep=",",stringsAsFactors = F)
+  data_part <- data.frame(word = t(data_part))
+  data_full <- bind_rows(data_full,data_part)
+  
+}
+
+result <- data_full %>%
+  dplyr::filter(!is.na(word)) %>% 
+  dplyr::group_by(word) %>% 
+  dplyr::summarise(freq = n()) %>% 
+  dplyr::ungroup() %>% 
+  dplyr::arrange(desc(freq)) %>% 
+  dplyr::filter(freq != 1) %>% 
+  dplyr::mutate(word_len = nchar(word)) %>% 
+  dplyr::filter(word_len != 1) %>% 
+  dplyr::select(-word_len)
+
+write.csv(result,"./MBTI2.csv")

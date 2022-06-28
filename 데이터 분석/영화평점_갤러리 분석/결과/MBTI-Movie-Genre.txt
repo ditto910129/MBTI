@@ -1,0 +1,207 @@
+INTP-fantasy : 16.58%
+INTP-romance : 7.42%
+INTP-horror : 13.65%
+INTP-SF : 15.29%
+INTP-drama : 10.27%
+INTP-action : 13.12%
+INTP-thriller : 15.36%
+INTP-comedy : 8.32%
+---------------------------
+1 : 판타지
+2 : SF
+3 : 스릴러
+
+INFP-fantasy : 9.73%
+INFP-romance : 15.94%
+INFP-horror : 20.0%
+INFP-SF : 10.7%
+INFP-drama : 13.69%
+INFP-action : 8.71%
+INFP-thriller : 8.18%
+INFP-comedy : 13.07%
+---------------------------
+1 : 호러
+2 : 로맨스
+3 : 드라마
+
+ISFP-fantasy : 11.4%
+ISFP-romance : 13.07%
+ISFP-horror : 12.02%
+ISFP-SF : 11.94%
+ISFP-drama : 12.26%
+ISFP-action : 12.21%
+ISFP-thriller : 11.52%
+ISFP-comedy : 15.58%
+---------------------------
+1 : 코미디
+2 : 로맨스
+3 : 드라마
+
+ISTP-fantasy : 11.98%
+ISTP-romance : 8.21%
+ISTP-horror : 14.26%
+ISTP-SF : 12.53%
+ISTP-drama : 8.48%
+ISTP-action : 18.14%
+ISTP-thriller : 17.73%
+ISTP-comedy : 8.67%
+---------------------------
+1 : 액션
+2 : 스릴러
+3 : 호러
+
+ENFP-fantasy : 9.44%
+ENFP-romance : 14.64%
+ENFP-horror : 15.59%
+ENFP-SF : 11.78%
+ENFP-drama : 11.91%
+ENFP-action : 12.14%
+ENFP-thriller : 11.74%
+ENFP-comedy : 12.77%
+---------------------------
+1 : 호러
+2 : 로맨스
+3 : 코미디
+
+ENTP-fantasy : 11.9%
+ENTP-romance : 8.95%
+ENTP-horror : 11.24%
+ENTP-SF : 11.51%
+ENTP-drama : 14.44%
+ENTP-action : 15.02%
+ENTP-thriller : 14.98%
+ENTP-comedy : 11.96%
+---------------------------
+1 : 액션
+2 : 스릴러
+3 : 드라마
+
+ESFP-fantasy : 10.62%
+ESFP-romance : 15.48%
+ESFP-horror : 16.87%
+ESFP-SF : 11.57%
+ESFP-drama : 9.94%
+ESFP-action : 11.08%
+ESFP-thriller : 11.69%
+ESFP-comedy : 12.74%
+---------------------------
+1 : 호러
+2 : 로맨스
+3 : 코미디
+
+ESTP-fantasy : 12.79%
+ESTP-romance : 13.08%
+ESTP-horror : 12.92%
+ESTP-SF : 14.04%
+ESTP-drama : 9.57%
+ESTP-action : 16.4%
+ESTP-thriller : 13.85%
+ESTP-comedy : 7.35%
+---------------------------
+1 : 액션
+2 : SF
+3 : 스릴러
+
+ENFJ-fantasy : 11.77%
+ENFJ-romance : 16.59%
+ENFJ-horror : 8.5%
+ENFJ-SF : 10.29%
+ENFJ-drama : 14.36%
+ENFJ-action : 12.02%
+ENFJ-thriller : 9.65%
+ENFJ-comedy : 16.83%
+---------------------------
+1 : 코미디
+2 : 로맨스
+3 : 드라마
+
+ENTJ-fantasy : 11.45%
+ENTJ-romance : 9.58%
+ENTJ-horror : 13.09%
+ENTJ-SF : 11.66%
+ENTJ-drama : 11.79%
+ENTJ-action : 13.45%
+ENTJ-thriller : 16.64%
+ENTJ-comedy : 12.34%
+---------------------------
+1 : 스릴러
+2 : 액션
+3 : 호러
+
+ESFJ-fantasy : 14.32%
+ESFJ-romance : 15.48%
+ESFJ-horror : 8.49%
+ESFJ-SF : 14.45%
+ESFJ-drama : 11.19%
+ESFJ-action : 13.78%
+ESFJ-thriller : 11.05%
+ESFJ-comedy : 11.24%
+---------------------------
+1 : 로맨스
+2 : SF
+3 : 판타지
+
+ESTJ-fantasy : 10.12%
+ESTJ-romance : 9.28%
+ESTJ-horror : 10.88%
+ESTJ-SF : 13.02%
+ESTJ-drama : 14.66%
+ESTJ-action : 15.38%
+ESTJ-thriller : 16.21%
+ESTJ-comedy : 10.45%
+---------------------------
+1 : 스릴러
+2 : 액션
+3 : 드라마
+
+INFJ-fantasy : 11.42%
+INFJ-romance : 14.88%
+INFJ-horror : 11.95%
+INFJ-SF : 12.57%
+INFJ-drama : 13.81%
+INFJ-action : 9.45%
+INFJ-thriller : 12.12%
+INFJ-comedy : 13.8%
+---------------------------
+1 : 로맨스
+2 : 드라마
+3 : 코미디
+
+INTJ-fantasy : 15.89%
+INTJ-romance : 7.37%
+INTJ-horror : 10.31%
+INTJ-SF : 17.08%
+INTJ-drama : 12.71%
+INTJ-action : 14.04%
+INTJ-thriller : 12.79%
+INTJ-comedy : 9.81%
+---------------------------
+1 : SF
+2 : 판타지
+3 : 액션
+
+ISFJ-fantasy : 17.31%
+ISFJ-romance : 13.74%
+ISFJ-horror : 11.26%
+ISFJ-SF : 8.57%
+ISFJ-drama : 10.0%
+ISFJ-action : 10.99%
+ISFJ-thriller : 12.25%
+ISFJ-comedy : 15.88%
+---------------------------
+1 : 판타지
+2 : 코미디
+3 : 로맨스
+
+ISTJ-fantasy : 15.2%
+ISTJ-romance : 11.11%
+ISTJ-horror : 10.43%
+ISTJ-SF : 14.83%
+ISTJ-drama : 11.55%
+ISTJ-action : 13.58%
+ISTJ-thriller : 10.96%
+ISTJ-comedy : 12.34%
+---------------------------
+1 : 판타지
+2 : SF
+3 : 액션
